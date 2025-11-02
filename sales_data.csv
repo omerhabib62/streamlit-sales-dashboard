@@ -1,0 +1,16 @@
+Order ID,Order Date,Category,Product Name,Sales
+1001,2023-01-01,Electronics,Laptop,1200
+1002,2023-01-02,Clothing,T-Shirt,50
+1003,2023-01-03,Electronics,Mouse,25
+1004,2023-01-04,Office,Pen Set,15
+1005,2023-01-05,Clothing,Jeans,75
+1006,2023-01-06,Electronics,Headphones,150
+1007,2023-01-07,Office,Stapler,10
+1008,2023-01-08,Clothing,Hoodie,60
+1009,2023-01-09,Electronics,Keyboard,80
+1010,2023-01-10,Furniture,Chair,250
+1011,2023-01-11,Office,Notebook,5
+1012,2023-01-12,Clothing,Jacket,130
+1013,2023-01-13,Electronics,Monitor,300
+1014,2023-01-14,Furniture,Desk,450
+1015,2023-01-15,Office,Binder,8
